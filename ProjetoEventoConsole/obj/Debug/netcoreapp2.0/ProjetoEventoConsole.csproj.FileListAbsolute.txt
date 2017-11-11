@@ -1,0 +1,12 @@
+C:\~~\ProjetoEventoConsole\bin\Debug\netcoreapp2.0\ProjetoEventoConsole.deps.json
+C:\~~\ProjetoEventoConsole\bin\Debug\netcoreapp2.0\ProjetoEventoConsole.runtimeconfig.json
+C:\~~\ProjetoEventoConsole\bin\Debug\netcoreapp2.0\ProjetoEventoConsole.runtimeconfig.dev.json
+C:\~~\ProjetoEventoConsole\bin\Debug\netcoreapp2.0\ProjetoEventoConsole.dll
+C:\~~\ProjetoEventoConsole\bin\Debug\netcoreapp2.0\ProjetoEventoConsole.pdb
+C:\~~\ProjetoEventoConsole\bin\Debug\netcoreapp2.0\Data.dll
+C:\~~\ProjetoEventoConsole\bin\Debug\netcoreapp2.0\Data.pdb
+C:\~~\ProjetoEventoConsole\obj\Debug\netcoreapp2.0\ProjetoEventoConsole.csproj.CoreCompileInputs.cache
+C:\~~\ProjetoEventoConsole\obj\Debug\netcoreapp2.0\ProjetoEventoConsole.AssemblyInfoInputs.cache
+C:\~~\ProjetoEventoConsole\obj\Debug\netcoreapp2.0\ProjetoEventoConsole.AssemblyInfo.cs
+C:\~~\ProjetoEventoConsole\obj\Debug\netcoreapp2.0\ProjetoEventoConsole.dll
+C:\~~\ProjetoEventoConsole\obj\Debug\netcoreapp2.0\ProjetoEventoConsole.pdb
